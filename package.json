@@ -1,0 +1,22 @@
+{
+  "name": "enable",
+  "version": "1.0.0",
+  "description": "Enable for Disable",
+  "main": "index.js",
+  "scripts": {
+    "test": "enable"
+  },
+  "repository": {
+    "type": "git",
+    "url": "enable"
+  },
+  "keywords": [
+    "enable"
+  ],
+  "author": "enablers",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.14.1",
+    "restify": "^7.0.0"
+  }
+}
